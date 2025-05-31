@@ -12,7 +12,7 @@ this script calculates bpm for weird snaps. useful for like 1/5.5 or idk.
 
 ## how to run:
 
-just open the `osu_bpm_calc.exe` file.
+just open the `osu! BPM Calculator.exe` file.
 
 ## how to use:
 
