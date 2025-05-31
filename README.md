@@ -19,3 +19,7 @@ just open the `osu! BPM Calculator.exe` file.
 1.  original bpm: hit "load from .osu" to get it from your beatmap file.
 2.  desired snap: type your snap number (like `5.5`).
 3.  hit "calculate & copy". new bpm shows up and gets copied to your clipboard.
+
+## setup:
+
+get python
